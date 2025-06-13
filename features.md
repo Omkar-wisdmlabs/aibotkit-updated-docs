@@ -1,6 +1,6 @@
 # Features
 
-## Key Features That Make AI BotKit Special
+## <mark style="color:blue;">Key Features That Make AI BotKit Special</mark>
 
 ### 🚀 _**Smart & Context-Aware**_
 
