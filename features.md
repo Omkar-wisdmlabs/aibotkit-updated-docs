@@ -4,7 +4,7 @@
 
 
 
-#### 🚀Smart & Context-Aware
+🚀 Smart & Context Aware
 
 Unlike basic chatbots that give robotic responses, AI BotKit actually understands context and provides intelligent, relevant answers based on your specific content.
 
