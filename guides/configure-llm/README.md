@@ -22,8 +22,8 @@ Think of API keys as your "membership cards" to use powerful AI services like Op
 AI BotKit supports three leading AI providers. You only need to set up **ONE** of them:
 
 1. OpenAI ( [API setup](../../references/setting-up-api-keys-for-llm.md#setting-up-openai-recommended-for-beginners))
-2. Claude by Anthropic ( [API Setup ](./#setting-up-anthropic-claude))
-3. Gemini by Google ( [API Setup](./#setting-up-google-ai) )
+2. Claude by Anthropic ( [API Setup ](../../references/setting-up-api-keys-for-llm.md#setting-up-anthropic-claude))
+3. Gemini by Google ( [API Setup](../../references/setting-up-api-keys-for-llm.md#setting-up-google-ai) )
 
 **💡 Recommendation for beginners:** Start with **OpenAI** as it's the most popular and well-documented.
 

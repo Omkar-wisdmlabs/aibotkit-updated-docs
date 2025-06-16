@@ -2,36 +2,48 @@
 
 ## <mark style="color:blue;">Key Features That Make AI BotKit Special</mark>
 
-### 🚀 _**Smart & Context-Aware**_
+
+
+#### 🚀Smart & Context-Aware
 
 Unlike basic chatbots that give robotic responses, AI BotKit actually understands context and provides intelligent, relevant answers based on your specific content.
 
-### 🔗 _**Works With Your Existing Content**_
+
+
+🔗 Works With Your Existing Content
 
 * Automatically learns from your WordPress posts and pages
 * Integrates with [WooCommerce ](https://woocommerce.com/)products
 * Supports document uploads (PDFs, Word docs, etc.)
 * Compatible with popular plugins like [LearnDash](https://www.learndash.com/)
 
-### 📊 _**Built-in Analytics**_
+
+
+📊 Built-in Analytics
 
 * See how many people are chatting with your bot
 * Understand what questions are being asked most
 * Track performance and improve over time
 
-### 🛡️ _**Secure & Reliable**_
+
+
+🛡️ Secure & Reliable
 
 * Your data stays on your server
 * Built with WordPress security best practices
 * Regular updates and professional support
 
-### 🎨 _**Easy to Customize**_
+
+
+🎨 Easy to Customize
 
 * Choose from different chat widget styles and positions
 * Customize colors, messages, and personality to match your brand
 * No coding skills required - everything is point-and-click simple
 
 
+
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;<mark style="color:blue;">Use-Cases</mark>
 

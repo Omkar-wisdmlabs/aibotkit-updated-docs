@@ -2,82 +2,33 @@
 
 ### 🎉 <mark style="color:blue;">Final Steps: Testing & Launch</mark>
 
-#### **Before Going Live:**
-
-**1. Save Your Chatbot**
-
-* Click **"Save Chatbot"** button
-* Wait for confirmation message
-* Don't activate yet - test first!
-
-
-
-**2. Test Your Chatbot**
-
-**How to Test:**
-
-1. Copy the shortcode: `[ai_botkit_chat id="your-bot-id"]`
-2. Add it to a test page
-3. Ask various questions to test responses
-4. Check the knowledge and personality
-
-
-
-**What to Test:**
-
-* ✅ **Basic questions:** Ask about your business/services
-* ✅ **Knowledge base:** Questions about uploaded content
-* ✅ **Personality:** Check if tone matches expectations
-* ✅ **Fallback:** Ask questions it shouldn't know
-* ✅ **Appearance:** Check colors, sizing, positioning
-
-
-
-**3. Refine if Needed**
-
-**Common adjustments:**
-
-* **Add more training content** if responses are too generic
-* **Adjust personality** if tone doesn't match
-* **Modify colors/sizing** if appearance needs tweaking
-* **Update messages** if greeting/fallback need improvement
-
-
-
-**4. Activate Your Chatbot**
-
-**When you're satisfied:**
-
-1. Go back to your chatbot list
-2. Click "Edit" on your chatbot
-3. Check the "Activate Chatbot" box
-4. Save changes
-
 #### **🚀 Adding to Your Website:**
 
-**Method 1: Shortcode (Specific Pages)**
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+In the **"My Bots"** Tab, you will find your Chatbot. Click on Copy code Button.
+
+There are 2 options :
+
+
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**Option 1: Shortcode**
 
 ```
 [ai_botkit_chat id="your-bot-id"]
 ```
 
-* **Use for:** Specific pages or posts
-* **How:** Add to any page content via WordPress editor
 
-**Method 2: Widget Code (Site-wide)**
+
+**Option 2: Widget Code**
 
 ```html
-<!-- Copy from your chatbot dashboard -->
-<script>Your widget code here</script>
+[ai_botkit_widget id="your-bot-id"]
 ```
 
-* **Use for:** Every page on your site
-* **How:** Add to theme footer or use a plugin
 
-**Method 3: WordPress Widget**
-
-* **Use for:** Sidebar or footer areas
-* **How:** Appearance > Widgets > Add AI BotKit Widget
 
 ***
 
