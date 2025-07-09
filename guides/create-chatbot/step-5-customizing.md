@@ -6,7 +6,19 @@ _Making your chatbot match your brand_
 
 #### **Visual Customization Options:**
 
+
+
+**Theme Settings**
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Choose the theme that best suits your website.
+
+
+
 **🎨 General Settings**
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Bot Avatar:**
 
@@ -15,7 +27,12 @@ _Making your chatbot match your brand_
 * **Tips:** Use your logo, mascot, or professional headshot
 * **Fallback:** Robot emoji (🤖) if no image uploaded
 
-**Primary Color:**
+**Widget Icon**&#x20;
+
+* **What it affects:** The way widget icon is seen on your website
+* **Tips** : You can select from the available options or you can upload on your own
+
+**Chat Color:**
 
 * **What it affects:** Chat bubble, send button, user messages
 * **How to choose:** Match your website's main color
@@ -35,6 +52,8 @@ _Making your chatbot match your brand_
 
 **🖼️ Header Settings**
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 **Background Color:**
 
 * **Default:** White (#FFFFFF)
@@ -53,6 +72,8 @@ _Making your chatbot match your brand_
 
 **💬 Popup ChatBox Settings**
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 **Dimensions:**
 
 * **Width:** 300-500 pixels (424px default)
@@ -66,6 +87,8 @@ _Making your chatbot match your brand_
 
 
 **🎯 Chat Window Settings**
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Background Colors:**
 
@@ -85,6 +108,8 @@ _Making your chatbot match your brand_
 
 
 **🔵 Chat Widget Bubble**
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Size Settings:**
 

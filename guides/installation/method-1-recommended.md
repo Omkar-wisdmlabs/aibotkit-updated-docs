@@ -26,7 +26,7 @@ This is the easiest way - perfect for beginners!&#x20;
 
 **Step 3: Search**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. Click on **"Search Plugins"** textbox at the top
 2. Search for "**AI Botkit**" plugin in the marketplace.
@@ -73,7 +73,7 @@ Congratulations! AI BotKit is installed. Now let's get it configured! 🚀
 
 After activating the plugin, a pop-up will appear prompting you to enter the admin's name and email address
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="Welcome pop-up image"><figcaption><p>Welcome Pop-up</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="Welcome pop-up image"><figcaption><p>Welcome Pop-up</p></figcaption></figure>
 
 
 

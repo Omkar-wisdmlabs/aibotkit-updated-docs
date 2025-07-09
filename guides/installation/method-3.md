@@ -97,7 +97,7 @@ Congratulations! AI BotKit is installed. Now let's get it configured! 🚀
 
 After activating the plugin, a pop-up will appear prompting you to enter the admin's name and email address
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="Welcome pop-up image"><figcaption><p>Welcome Pop-up</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="Welcome pop-up image"><figcaption><p>Welcome Pop-up</p></figcaption></figure>
 
 
 
