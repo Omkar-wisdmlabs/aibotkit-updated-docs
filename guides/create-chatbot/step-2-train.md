@@ -8,24 +8,19 @@ _Teaching your chatbot what it needs to know_
 
 Without training, your chatbot can only give generic answers. With proper training, it becomes an expert on YOUR specific business, products, and services.
 
-#### **Three Training Methods:**
 
-**📝 Method 1: Import from WordPress**
 
-**Best for:** Using content already on your website
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-**Step-by-Step:**
+#### **2 Methods:**
 
-1. **Select Content Types**
-   * Check boxes for content types you want (Posts, Pages, Products, etc.)
-   * Use "Select All" for everything or pick specific types
-2. **Preview Content**
-   * Click "Preview Content" to see what will be imported
-   * Review the list of posts/pages
-   * Check boxes next to content you want to include
-3. **Import Selected**
-   * Click "Import Content"
-   * Watch as content is processed (usually takes 1-2 minutes)
+**📝 Method 1: Import form existing knowledge base**
+
+
+
+**Select from the dropdown list what you have already added in the knowledge base .select from wordpress content, documents or urls**
+
+
 
 **💡 Smart Selection Tips:**
 
@@ -35,36 +30,30 @@ Without training, your chatbot can only give generic answers. With proper traini
 
 
 
-**📚 Method 2: Select from Knowledge Base**
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-**Best for:** Using documents you've already uploaded
-
-**How to Use:**
-
-1. Search through your existing knowledge base
-2. Check boxes next to relevant documents
-3. Selected items automatically train your bot
-
-
-
-**📄 Method 3: Upload New Content**
+**📚 Method 2: Upload New Content**
 
 **Best for:** Adding specific documents for this chatbot
 
-**Document Upload:**
+**Add Document :**
 
 * **Drag & drop** PDF files or **click to browse**
 * **File limits:** Max 10 MB per file
 * **Supported formats:** PDF
 * **Add clear titles** for each document
 
-**URL Addition:**
+**Add URL :**
 
 * **Paste complete URLs** (https://yoursite.com/page)
 * **Add descriptive titles** for each URL
 * **System automatically extracts** the main content
 
-####
+**Add from WordPress :**
+
+*
+
+
 
 #### **✅ Step 2 Checklist:**
 

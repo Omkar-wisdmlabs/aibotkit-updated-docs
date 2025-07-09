@@ -2,7 +2,9 @@
 
 ### 📝 <mark style="color:blue;">Method 3: Import from WordPress</mark>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 This is the **easiest method** if you already have content on your WordPress website!
 

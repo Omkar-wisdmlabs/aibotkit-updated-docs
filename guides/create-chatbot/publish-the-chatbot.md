@@ -1,16 +1,16 @@
-# Launch the Chatbot
+# Publish the Chatbot
 
 ### 🎉 <mark style="color:blue;">Final Steps: Testing & Launch</mark>
 
-### 🚀 Adding to Your Website:
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-In the "My Bots" Tab, you will find your Chatbot. Click on the Copy code Button.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-There are 2 options :&#x20;
+You can either enable the site-wide chatbot option to display the chatbot on all WordPress pages of your site, or you can deploy it on specific pages using shortcodes.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+There are two ways to deploy the chatbot on specific pages:
+
+
 
 **Option 1: Embedded Chat Interface**
 
@@ -19,6 +19,8 @@ There are 2 options :&#x20;
 ```
 
 This shortcode embeds a chat interface directly within your page content.
+
+
 
 **Option 2: Floating Widget**
 
@@ -29,6 +31,8 @@ This shortcode embeds a chat interface directly within your page content.
 This shortcode adds a floating chat bubble widget that appears in the corner of your site.
 
 Simply copy either shortcode and paste it into any WordPress page or post where you want the chatbot to appear. The plugin provides a convenient copy-to-clipboard button for each option.
+
+
 
 ### ⚙️ Important Setup Requirements
 

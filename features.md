@@ -41,9 +41,7 @@ Unlike basic chatbots that give robotic responses, AI BotKit actually understand
 * Customize colors, messages, and personality to match your brand
 * No coding skills required - everything is point-and-click simple
 
-
-
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;<mark style="color:blue;">Use-Cases</mark>
 

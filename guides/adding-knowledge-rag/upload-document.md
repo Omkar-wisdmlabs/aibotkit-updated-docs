@@ -2,9 +2,7 @@
 
 ### <mark style="color:blue;">📄 Method 1: Upload Documents</mark>
 
-
-
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 **Best for:** Company documents, guides, manuals, research papers
 
@@ -21,13 +19,12 @@
 2. **Start Upload**
    * Click the "Upload Document" button
    * Choose your PDF file from your computer
-   * Add a descriptive title (e.g., "Product Manual 2024")
 3. **Wait for Processing**
    * Your file will show as "Processing"
    * The AI reads and understands your document (this takes 1-5 minutes)
    * Status changes to "Completed" when ready
 
-####
+
 
 #### <mark style="color:blue;">**📋 Best Practices for Document Upload:**</mark>
 

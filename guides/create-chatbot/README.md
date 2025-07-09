@@ -1,4 +1,4 @@
-# Create Chabot
+# Create Chatbot
 
 ## 🤖 Create Your First Chatbot: Complete Guide
 
@@ -25,12 +25,22 @@ By the end of this guide, you'll have a fully functional AI chatbot that:
 2. **✅ Knowledge Base Ready** - Have some content prepared (documents, URLs, or WordPress posts)
 3. **✅ Clear Purpose** - Know what you want your chatbot to help visitors with
 
+
+
 #### **How to Start Creating:**
 
 1. Go to your WordPress admin dashboard
 2. Click on **"AI BotKit"** in the left menu
 3. Select the **"Chatbots"** tab
 4. Click the **"Create New Bot"** button
+
+
+
+**Structure :**
+
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+The chatbot creation process consists of five steps. As you complete each step, the progress bar will advance and display the completion percentage. Once you finish the final step, you will be directed to the "Publish" step. Make sure to save the chatbot at the end to apply all changes.
 
 ***
 

@@ -93,6 +93,43 @@ You'll see a beautiful dashboard with colorful graphs and important numbers! �
 * Optimize your knowledge base&#x20;
 * Set up smart caching&#x20;
 
+
+
+#### <mark style="color:blue;">5. Top Query Types</mark>
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**What it shows:** This table displays a breakdown of the most common types of user queries, along with their frequency, average quality score, and average response time.
+
+**Why track this:**
+
+* Identify most common query types — Understand what users are asking most frequently.
+* Evaluate response quality — Monitor how well each query type is being handled.
+* Analyze response times — Detect any performance issues or delays in specific query types.
+* Prioritize feature improvements — Focus development efforts based on real usage patterns.
+
+
+
+<mark style="color:blue;">6. Recent Errors</mark>
+
+
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**What it shows:** This table lists the most recent system errors, including the error type, how many times it occurred, which component was affected, and when it last happened.
+
+**Why track this:**
+
+* Identify system issues quickly — Spot recurring or critical errors early.
+* Pinpoint affected components — Understand where in the system failures are occurring.
+* Track error frequency and timing — Monitor how often errors happen and their last occurrence.
+* Support debugging and testing — Provide context for developers to resolve issues faster.
+* Improve system reliability — Reduce downtime and enhance overall user experience.
+
 ***
 
 ### 🔍 Troubleshooting Common Issues

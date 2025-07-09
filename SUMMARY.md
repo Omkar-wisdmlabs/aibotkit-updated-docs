@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [AI-Botkit](README.md)
+* [AI Botkit](README.md)
 
 ***
 
@@ -27,7 +27,7 @@
   * [Step 3  - Interface](guides/create-chatbot/step-3-interface.md)
   * [Step 4 - Model Config](guides/create-chatbot/step-4-model-config.md)
   * [Step 5 - Customizing](guides/create-chatbot/step-5-customizing.md)
-  * [Launch the Chatbot](guides/create-chatbot/launch-the-chatbot.md)
+  * [Publish the Chatbot](guides/create-chatbot/publish-the-chatbot.md)
 * [Analytics](guides/analytics.md)
 
 ## Exaplanations

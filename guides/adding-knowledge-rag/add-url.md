@@ -2,7 +2,7 @@
 
 ### 🌐 <mark style="color:blue;">Method 2: Add Website URLs</mark>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 **Best for:** Web pages, blog posts, online documentation
 
@@ -25,7 +25,6 @@
    * In Knowledge Base, click "Add URL"
    * A popup window will appear
 2. **Enter URL Details**
-   * **Title:** Give it a clear name (e.g., "Pricing Information")
    * **URL:** Paste the complete web address (e.g., https://yoursite.com/pricing)
 3. **Validation & Processing**
    * AI BotKit checks if the URL is accessible
