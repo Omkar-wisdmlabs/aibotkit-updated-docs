@@ -188,57 +188,70 @@ Controls the time period for counting API requests. Think of it as a "rolling wi
 
 ***
 
-### 🚦 <mark style="color:blue;">Rate Limit Max Requests</mark>
+### 🚦 <mark style="color:blue;">Max Tokens per Conversation</mark>
 
 #### What It Does:
 
-Sets the maximum number of chatbot requests allowed within the rate limit window. This is your primary tool for controlling usage and costs.
+Sets the maximum number of chatbot tokens utilization allowed per chat. This is your primary tool for controlling usage and costs.
 
-**Simple Analogy:** Like setting a speed limit - it determines how fast users can make requests.
+**Simple Analogy:** Like setting a limit - it determines how many requests users can make!
 
 #### Default Setting:
 
-**60 requests** per window (1 request per second on average)
-
-#### Range:
-
-* **Minimum:** 1 request
-* **Maximum:** 1000 requests
+**100k** Tokens per chat
 
 #### When To Adjust:
 
-**Increase Limit (100-200) When:**
-
-✅ **You have high-traffic periods**\
-✅ **Multiple users chat simultaneously**\
-✅ **You want to provide unlimited-feeling experience**\
-✅ **Your AI budget is flexible**
-
-**Decrease Limit (20-40) When:**
-
-✅ **You want to control AI costs strictly**\
-✅ **Your site has mostly single users**\
-✅ **You're testing the chatbot initially**\
-✅ **You want to prevent abuse**
+* If users frequently reach the token limit and get cut off mid-conversation.
+* If you’re trying to reduce API usage costs, especially under high traffic conditions.
 
 #### Usage Scenarios:
 
-**Small Blog (Recommend: 30-50 requests)**
+#### Business Website (e.g., SaaS, Corporate)
 
-* Few concurrent users
-* Casual interaction patterns
+* **Recommended Limit:** 100k–200k tokens
+* **Why:** These users may ask in-depth questions about services, pricing, integrations, or documentation. Conversations are longer and more informative.
+* **Tip:** Ensure longer context retention if the chatbot provides guided walkthroughs or complex troubleshooting.
 
-**Business Website (Recommend: 60-100 requests)**
+#### Small E-Commerce Website
 
-* Moderate traffic
-* Standard business hours usage
-
-**E-commerce Store (Recommend: 100-200 requests)**
-
-* High traffic during sales
-* Multiple customer service interactions
+* **Recommended Limit:** 50k–100k tokens
+* **Why:** Customers typically ask about products, availability, shipping, and return policies — short and focused interactions.
+* **Tip:** Monitor usage for product-specific FAQs to optimize response quality and token limits.
 
 ***
+
+
+
+### 📩 <mark style="color:blue;">Max Messages in 24 hours</mark>
+
+#### What It Does:
+
+Sets the maximum number of messages a single user can send to the chatbot within a 24-hour period. This helps control excessive usage and ensures fair access across users.
+
+**Simple Analogy:** Like placing a limit on the number of customer support calls you can make per day — it prevents overuse and ensures others also get served.
+
+#### Default Setting:
+
+60 messages per user per day
+
+#### When To Adjust:
+
+* **Increase** the limit if users often need multi-turn conversations or the chatbot handles complex workflows (e.g., step-by-step guidance).
+* **Decrease** the limit if you're seeing abuse, spam, or resource strain from a few users.
+* **Balance** the limit based on your backend resource capacity and pricing plan (especially if using a paid API).
+
+#### Usage Scenarios:
+
+#### Small E-Commerce Website
+
+* **Recommended Limit:** 10 messages per day
+* **Why:** Most customers ask 3–10 quick questions per session — product queries, order status, or returns. Rarely will one user exceed this unless abusing the system.
+
+#### Business Website (e.g., SaaS, Corporate)
+
+* **Recommended Limit:** 20-30 messages per day
+* **Why:** Users may engage in longer sessions involving feature walkthroughs, documentation help, or troubleshooting. More back-and-forth is expected.
 
 ### 🎯 <mark style="color:blue;">Choosing The Right Settings For Your Site</mark>
 
@@ -247,8 +260,8 @@ Sets the maximum number of chatbot requests allowed within the rate limit window
 ```
 Chunk Size: 800-1000 characters
 Chunk Overlap: 150-200 characters
-Rate Limit Window: 60 seconds
-Max Requests: 100-200
+Max Tokens per Conversation: 50k-100k
+Max Messages: 10
 ```
 
 **Why:** Product info is concise, but you need to handle customer service spikes.
@@ -260,8 +273,8 @@ Max Requests: 100-200
 ```
 Chunk Size: 1000-1200 characters
 Chunk Overlap: 200-250 characters
-Rate Limit Window: 60 seconds
-Max Requests: 40-80
+Max Tokens per Conversation: 100k
+Max Messages: 40-80
 ```
 
 **Why:** Professional content needs context, but traffic is usually moderate.
@@ -270,7 +283,7 @@ Max Requests: 40-80
 
 ### 🚨 Troubleshooting Common Issues
 
-<table data-header-hidden><thead><tr><th width="335">Issue</th><th>Solution</th></tr></thead><tbody><tr><td><mark style="background-color:blue;">Issues</mark></td><td><mark style="background-color:blue;">Solution</mark></td></tr><tr><td>Answers seem incomplete or cut off</td><td>Increase <strong>chunk size</strong> to 1200–1500 characters</td></tr><tr><td>Chatbot loses context between related topics</td><td>Increase <strong>chunk overlap</strong> to 250–300 characters</td></tr><tr><td>Users complain about rate limiting</td><td>Increase <strong>max requests</strong> or extend the <strong>rate limit window</strong></td></tr><tr><td>AI costs are too high</td><td>Decrease <strong>max requests</strong> and optimize <strong>chunk size</strong></td></tr><tr><td>Responses are too slow</td><td>Decrease <strong>chunk size</strong> and <strong>overlap</strong>; check <strong>rate limits</strong></td></tr><tr><td>Getting irrelevant answers</td><td>Decrease <strong>chunk size</strong> for more precise content targeting</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="335">Issue</th><th>Solution</th></tr></thead><tbody><tr><td><mark style="background-color:blue;">Issues</mark></td><td><mark style="background-color:blue;">Solution</mark></td></tr><tr><td>Answers seem incomplete or cut off</td><td>Increase <strong>chunk size</strong> to 1200–1500 characters</td></tr><tr><td>Chatbot loses context between related topics</td><td>Increase <strong>chunk overlap</strong> to 250–300 characters</td></tr><tr><td>Users complain about rate limiting</td><td>Increase <strong>max requests</strong> or extend the <strong>rate limit window</strong></td></tr><tr><td>AI costs are too high</td><td>Decrease <strong>max requests</strong> and optimize <strong>chunk size</strong></td></tr><tr><td>Responses are too slow</td><td>Decrease <strong>chunk size</strong> and <strong>overlap</strong></td></tr><tr><td>Getting irrelevant answers</td><td>Decrease <strong>chunk size</strong> for more precise content targeting</td></tr></tbody></table>
 
 ***
 

@@ -8,17 +8,19 @@ _Teaching your chatbot what it needs to know_
 
 Without training, your chatbot can only give generic answers. With proper training, it becomes an expert on YOUR specific business, products, and services.
 
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+#### **2 Methods to add training data:**
 
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
-#### **2 Methods:**
 
 **📝 Method 1: Import form existing knowledge base**
 
+Select from the dropdown list what you have already added in the knowledge base. Select from WordPress content, documents or URLs
 
 
-**Select from the dropdown list what you have already added in the knowledge base .select from wordpress content, documents or urls**
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,11 +32,13 @@ Without training, your chatbot can only give generic answers. With proper traini
 
 
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
 **📚 Method 2: Upload New Content**
 
 **Best for:** Adding specific documents for this chatbot
+
+
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **Add Document :**
 
@@ -51,7 +55,9 @@ Without training, your chatbot can only give generic answers. With proper traini
 
 **Add from WordPress :**
 
-*
+* Select Content Types. Choose what types of content to import (Posts, Pages, etc.). Use "Select All" or pick specific types
+* Find specific posts by title or content. Import only recent content or content from specific time periods. After selecting all the content, click on "Add Selected" Button
+* Preview all the selected content. Click on "Add Data"
 
 
 

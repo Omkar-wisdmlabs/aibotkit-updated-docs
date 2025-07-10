@@ -13,9 +13,7 @@ Think of API keys as your "membership cards" to use powerful AI services like Op
 
 ### 🎯 2 Step Setup Guide
 
-
-
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:blue;">Step 1: Choose Your AI Provider</mark>
 
