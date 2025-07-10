@@ -34,6 +34,12 @@ Simply copy either shortcode and paste it into any WordPress page or post where 
 
 
 
+#### Sitewide Chatbot
+
+You can use this option to add chatbot on all of your WordPress pages at once.
+
+
+
 ### ⚙️ Important Setup Requirements
 
 **Before Your Chatbot Will Work:**
