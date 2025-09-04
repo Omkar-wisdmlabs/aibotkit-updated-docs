@@ -1,4 +1,4 @@
-# AI-Botkit
+# What is AI Bot Kit?
 
 ## <mark style="color:blue;">Introduction</mark> :&#x20;
 
