@@ -1,3 +1,0 @@
-# Prompting Guide
-
-Coming Soon ...

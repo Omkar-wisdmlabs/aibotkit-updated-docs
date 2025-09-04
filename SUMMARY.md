@@ -44,6 +44,7 @@
 * [Embed Block Not Working](troubleshooting-and-faqs/embed-block-not-working.md)
 * [Re-training Your Bot](troubleshooting-and-faqs/re-training-your-bot.md)
 * [Contact Support](troubleshooting-and-faqs/contact-support.md)
+* [General Debugging ](troubleshooting-and-faqs/general-debugging.md)
 
 ***
 
@@ -74,8 +75,6 @@
 ## Exaplanations
 
 * [Advanced Settings](exaplanations/advanced-settings.md)
-* [Debugging & Troubleshooting](exaplanations/debugging-and-troubleshooting.md)
-* [Prompting Guide](exaplanations/prompting-guide.md)
 
 ## References
 

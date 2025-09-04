@@ -27,7 +27,7 @@ _Foundation of your chatbot's identity_
     * **Service Business:** "knowledgeable consultant who guides clients through our services"
     * **Support:** "patient support representative who solves customer problems"
 
-    If you're confused, check out the [Prompting Guide ](../../exaplanations/prompting-guide.md)
+    If you're confused, check out the [Prompting Guide ](broken-reference)
 
 
 
