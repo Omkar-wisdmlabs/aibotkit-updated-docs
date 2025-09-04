@@ -31,7 +31,6 @@
 * [Dashboard Overview](analytics-and-reporting/dashboard-overview.md)
 * [Chat Counts, Messages, Characters](analytics-and-reporting/chat-counts-messages-characters.md)
 * [Daily Active Users](analytics-and-reporting/daily-active-users.md)
-* [Free Plan vs Upgraded Plans](analytics-and-reporting/free-plan-vs-upgraded-plans.md)
 
 ## Plans & Billing
 
