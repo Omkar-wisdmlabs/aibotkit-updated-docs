@@ -40,4 +40,3 @@ This helps you understand peak usage times, busiest days, and how engagement cha
 
 ⚡ **Tip:** Check your analytics weekly to spot trends early. For example, if you see spikes in certain questions, you can add targeted answers or documents to your training for better results.
 
-\[screenshot: Analytics dashboard with metrics and daily activity graph]

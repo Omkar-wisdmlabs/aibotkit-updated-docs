@@ -45,4 +45,3 @@ If you’ve outgrown the Free plan, upgrading to a paid plan unlocks higher limi
 
 ⚡ **Tip:** Always monitor your usage in the **Plans & Billing dashboard**. If you consistently hit message or storage limits, upgrading ensures smoother performance for your users.
 
-\[screenshot: Plans & Billing page with upgrade options]

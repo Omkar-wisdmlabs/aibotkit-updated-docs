@@ -8,4 +8,3 @@ Once the analysis is complete, AI Bot Kit will suggest **four ready-made theme o
 
 When you’re satisfied, click **Continue** to move ahead.
 
-\[screenshot: theme selection page]

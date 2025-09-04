@@ -43,4 +43,3 @@ For WordPress users, a dedicated plugin is available:
 
 ⚡ **In Short:** Copy the embed code → Paste it into your website → Save changes → Your chatbot goes live instantly.
 
-\[screenshot: Embed code preview screen]

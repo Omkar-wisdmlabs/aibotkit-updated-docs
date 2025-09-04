@@ -7,4 +7,3 @@ After choosing your theme, you’ll be asked to create an account.
 * Once done, your chatbot will be generated instantly inside your account.
 * From here, you can continue to configure, train, and customize your bot.
 
-\[screenshot: create account page]

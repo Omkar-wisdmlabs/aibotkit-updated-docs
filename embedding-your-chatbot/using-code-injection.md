@@ -49,7 +49,7 @@ Code Injection is the best method if you want your chatbot to **appear across ev
 * **Cleaner setup** → No need to add blocks on individual pages.
 * **Future-proof** → Any new pages you add will automatically have the chatbot.
 
-\[screenshot: code injection settings example]
+
 
 ***
 

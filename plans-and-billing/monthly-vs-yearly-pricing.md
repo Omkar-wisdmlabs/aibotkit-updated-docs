@@ -57,4 +57,3 @@ AI Bot Kit offers both **monthly** and **yearly** billing options, giving you fl
 
 ⚡ **Tip:** If you’re starting with monthly billing and find consistent value, you can switch to yearly at any time for savings. The change will apply from your next billing cycle.
 
-\[screenshot: Plans & Billing toggle between monthly and yearly]

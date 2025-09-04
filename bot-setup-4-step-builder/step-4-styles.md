@@ -11,4 +11,3 @@ The **Styles** tab is where you design the look and feel of your chatbot widget.
 
 This step ensures your chatbot visually blends with your website design and brand identity.
 
-\[screenshot: Styles tab with avatar, widget, and color settings]

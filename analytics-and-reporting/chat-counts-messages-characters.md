@@ -52,4 +52,3 @@ AI Bot Kit tracks all key usage statistics for your chatbot. These metrics help 
 
 Monitoring these together gives you a **complete picture** of chatbot usage and when to scale up.
 
-\[screenshot: Analytics dashboard showing Chat Counts, Messages, Characters]

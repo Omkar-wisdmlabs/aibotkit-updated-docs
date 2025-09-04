@@ -40,4 +40,3 @@ To help us solve your issue faster, please provide:
 
 ⚡ **Tip:** Check the **Documentation** and **FAQs** first — most issues (like chatbot not showing or embed block not working) can be resolved instantly without waiting for support.
 
-\[screenshot: Support tab in dashboard]

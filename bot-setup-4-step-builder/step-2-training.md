@@ -11,4 +11,3 @@ In the **Training** tab, you define what your chatbot actually knows. This is wh
 
 💡 **Tip**: Start with your most common FAQs, product pages, or guides so your bot can handle real customer questions right away.
 
-\[screenshot: Training tab with Add Data options]
