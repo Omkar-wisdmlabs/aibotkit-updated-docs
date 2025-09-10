@@ -28,5 +28,5 @@ Your chatbot is now live and ready to engage visitors on your Squarespace site.
 * Always preview before publishing, to ensure it doesn’t overlap with other widgets or content.
 
 📘 For a full step-by-step guide with visuals:\
-👉 How to Add AI Bot Kit Chatbot to Squarespace
+[👉 How to Add AI Bot Kit Chatbot to Squarespace](https://aibotkit.io/blogs/squarespace-chatbot/)
 
