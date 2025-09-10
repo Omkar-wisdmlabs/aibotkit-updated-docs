@@ -8,3 +8,4 @@ Once the analysis is complete, AI Bot Kit will suggest **four ready-made theme o
 
 When you’re satisfied, click **Continue** to move ahead.
 
+<figure><img src="../.gitbook/assets/3.JPG" alt=""><figcaption></figcaption></figure>

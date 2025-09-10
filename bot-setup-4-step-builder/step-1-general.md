@@ -12,3 +12,5 @@ The **General** tab is where you set the basic details and personality of your c
   * **Casual** → Relaxed, informal, and engaging
 
 This step sets the **personality** and **voice** of your chatbot, making it feel natural to your audience.
+
+<figure><img src="../.gitbook/assets/5.JPG" alt=""><figcaption></figcaption></figure>

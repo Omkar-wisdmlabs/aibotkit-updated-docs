@@ -21,6 +21,8 @@ Once your chatbot is set up, the final step is to make it visible on your websit
 
 💡 **Tip:** If your site uses a website builder (like Squarespace, Wix, or Shopify), add the embed code using the “Embed” or “Custom Code” block.
 
+<figure><img src="../.gitbook/assets/9.JPG" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### Share Link

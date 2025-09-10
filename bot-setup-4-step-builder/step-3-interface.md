@@ -8,3 +8,5 @@ The **Interface** tab controls how your chatbot communicates with visitors.
   &#xNAN;_“I don’t have an answer for that yet. Can you rephrase your question?”_
 
 These settings ensure your bot always responds — even if it doesn’t know the exact answer — and keeps the conversation flowing.
+
+<figure><img src="../.gitbook/assets/7.JPG" alt=""><figcaption></figcaption></figure>

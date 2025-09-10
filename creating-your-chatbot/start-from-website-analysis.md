@@ -11,3 +11,5 @@ The first step in creating your chatbot is to analyze your website.
 
 This analysis helps your chatbot look and feel like a natural part of your site from the very beginning.
 
+<figure><img src="../.gitbook/assets/2.JPG" alt=""><figcaption></figcaption></figure>
+
