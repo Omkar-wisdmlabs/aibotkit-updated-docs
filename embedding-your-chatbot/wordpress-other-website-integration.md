@@ -44,4 +44,4 @@ That’s it! Your chatbot will now run automatically across your entire WordPres
 * If the chatbot doesn’t appear immediately, clear your WordPress cache or CDN.
 
 📘 Full guide available here:\
-👉 How to Add AI Bot Kit Chatbot to WordPress
+[👉 How to Add AI Bot Kit Chatbot to WordPress](https://aibotkit.io/blogs/wordpress-chatbot/)
