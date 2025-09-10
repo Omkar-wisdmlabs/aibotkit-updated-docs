@@ -80,7 +80,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/8.JPG" alt=""><figcaption></figcaption></figure>
 
-[For more Detailed 4-STEP BUILDER](broken-reference)
+[For more Detailed 4-STEP BUILDER](broken-reference) - Click Here
 
 ***
 
@@ -96,6 +96,8 @@ description: >-
 * Copy the embed code snippet from **Preview & Launch**.
 
 <figure><img src=".gitbook/assets/9.JPG" alt=""><figcaption></figcaption></figure>
+
+[For More Detailed Ways to Embed your Chatbot- Click Here](broken-reference)
 
 ***
 
@@ -122,6 +124,8 @@ description: >-
 
 <figure><img src=".gitbook/assets/11.JPG" alt=""><figcaption></figcaption></figure>
 
+[For More Detailed Analytics and Reporting](broken-reference) - Click Here
+
 ***
 
 #### Step 14: Retrain as Needed
@@ -137,6 +141,8 @@ description: >-
 * Upgrade to Basic, Essential, or Business for more bots, storage, and messages.
 
 <figure><img src=".gitbook/assets/12.JPG" alt=""><figcaption></figcaption></figure>
+
+[For More Detailed Plans and Billing - Click Here](broken-reference)
 
 ***
 
