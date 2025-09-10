@@ -13,6 +13,8 @@ description: >-
 
 <figure><img src=".gitbook/assets/1.JPG" alt=""><figcaption></figcaption></figure>
 
+[Know More about AiBotkit Here](introduction/what-is-ai-bot-kit.md)
+
 ***
 
 #### Step 2: Enter Your Website
@@ -38,6 +40,8 @@ description: >-
 * Your first chatbot is created instantly in your dashboard.
 
 <figure><img src=".gitbook/assets/4.JPG" alt=""><figcaption></figcaption></figure>
+
+[For More Details about Creating your Chatbot - Click Here](broken-reference)
 
 ***
 
@@ -75,6 +79,8 @@ description: >-
 * Pick colors, button style, and bot avatar to match your brand.
 
 <figure><img src=".gitbook/assets/8.JPG" alt=""><figcaption></figcaption></figure>
+
+[For more Detailed 4-STEP BUILDER](broken-reference)
 
 ***
 
