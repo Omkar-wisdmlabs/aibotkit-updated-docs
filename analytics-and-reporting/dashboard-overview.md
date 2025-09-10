@@ -6,6 +6,8 @@ AI Bot Kit includes a built-in **Analytics Dashboard** that helps you track how 
 
 #### Key Metrics
 
+<figure><img src="../.gitbook/assets/11.JPG" alt=""><figcaption></figcaption></figure>
+
 On the dashboard, you’ll find the following top-level metrics:
 
 * **Total Chatbots** → How many chatbots you’ve created in your account.
