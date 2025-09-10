@@ -9,7 +9,7 @@ description: >-
 
 #### Step 1: Go to AI Bot Kit
 
-* Visit [aibotkit.io](https://aibotkit.io) and click **Get Started**.
+* Visit [aibotkit.io](https://aibotkit.io/#chatbot-section) and click **Get Started**.
 
 <figure><img src=".gitbook/assets/1.JPG" alt=""><figcaption></figcaption></figure>
 
