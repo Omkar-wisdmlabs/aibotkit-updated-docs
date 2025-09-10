@@ -1,10 +1,12 @@
 # Table of contents
 
-## Getting Started
+* [Getting Started](README.md)
 
-* [What is AI Bot Kit?](README.md)
-* [Key Features](getting-started/key-features.md)
-* [Free Plan & Upgrades](getting-started/free-plan-and-upgrades.md)
+## Introduction
+
+* [What is AI Bot Kit?](introduction/what-is-ai-bot-kit.md)
+* [Key Features](introduction/key-features.md)
+* [Free Plan & Upgrades](introduction/free-plan-and-upgrades.md)
 
 ## Creating Your Chatbot
 
