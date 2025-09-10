@@ -11,7 +11,7 @@ If you’ve tried troubleshooting but still need help, AI Bot Kit’s support te
    * In the sidebar, click **Help Center / Support**.
    * Submit your issue directly from there.
 2. **Email Support**
-   * You can also email our support team (📧 \[support email placeholder]).
+   * You can also email our support team (📧 support@aibotkit.io).
    * Include your account email, chatbot ID, and a brief description of the problem.
 3. **Bug Report (Free Plan)**
    * Free plan users can submit bug reports via the dashboard.
