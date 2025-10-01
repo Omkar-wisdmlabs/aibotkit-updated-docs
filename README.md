@@ -39,7 +39,7 @@ description: >-
 * Sign up with your **email and password**.
 * Your first chatbot is created instantly in your dashboard.
 
-<figure><img src=".gitbook/assets/4.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 [For More Details about Creating your Chatbot - Click Here](broken-reference)
 
@@ -49,7 +49,8 @@ description: >-
 
 * Give your bot a name.
 * Choose a **tone**: Professional, Friendly, or Casual.
-* Toggle activation when you’re ready to go live.
+
+
 
 <figure><img src=".gitbook/assets/5.JPG" alt=""><figcaption></figcaption></figure>
 
