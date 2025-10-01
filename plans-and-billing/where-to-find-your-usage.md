@@ -6,7 +6,7 @@ AI Bot Kit makes it easy to track your plan usage directly inside the dashboard.
 
 #### Current Plan Overview
 
-<figure><img src="../.gitbook/assets/12.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the **Plans & Billing** page, you’ll see your **Current Plan** box. This shows:
 

@@ -4,6 +4,8 @@ If you’ve outgrown the Free plan, upgrading to a paid plan unlocks higher limi
 
 ***
 
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 #### How to Upgrade
 
 1. **Log into your AI Bot Kit dashboard.**

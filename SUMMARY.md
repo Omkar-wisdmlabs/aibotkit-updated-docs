@@ -14,12 +14,13 @@
 * [Choose a Theme](creating-your-chatbot/choose-a-theme.md)
 * [Create Your Account](creating-your-chatbot/create-your-account.md)
 
-## Bot Setup: 4-Step Builder
+## Bot Setup: 5-Step Builder
 
-* [Step 1: General](bot-setup-4-step-builder/step-1-general.md)
-* [Step 2: Training](bot-setup-4-step-builder/step-2-training.md)
-* [Step 3: Interface](bot-setup-4-step-builder/step-3-interface.md)
-* [Step 4: Styles](bot-setup-4-step-builder/step-4-styles.md)
+* [Step 1: General](bot-setup-5-step-builder/step-1-general.md)
+* [Step 2: Training](bot-setup-5-step-builder/step-2-training.md)
+* [Step 3: Interface](bot-setup-5-step-builder/step-3-interface.md)
+* [Step 4: Styles](bot-setup-5-step-builder/step-4-styles.md)
+* [Step 5: Publish](bot-setup-5-step-builder/step-5-publish.md)
 
 ## Embedding Your Chatbot
 

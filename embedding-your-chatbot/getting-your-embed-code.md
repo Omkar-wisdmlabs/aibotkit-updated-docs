@@ -6,7 +6,7 @@ Once your chatbot is set up, the final step is to make it visible on your websit
 
 #### Getting Your Embed Code
 
-1. After saving your chatbot, go to the **Preview & Launch** screen.
+1. After saving your chatbot, go to the **Publish** screen.
 2. Under **Embed on your website**, you’ll see a code snippet like this:
 
 ```html
@@ -21,9 +21,9 @@ Once your chatbot is set up, the final step is to make it visible on your websit
 
 💡 **Tip:** If your site uses a website builder (like Squarespace, Wix, or Shopify), add the embed code using the “Embed” or “Custom Code” block.
 
-<figure><img src="../.gitbook/assets/9.JPG" alt=""><figcaption></figcaption></figure>
-
 ***
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 #### Share Link
 
