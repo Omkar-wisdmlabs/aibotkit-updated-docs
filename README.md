@@ -39,7 +39,7 @@ description: >-
 * Sign up with your **email and password**.
 * Your first chatbot is created instantly in your dashboard.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [For More Details about Creating your Chatbot - Click Here](broken-reference)
 
@@ -50,9 +50,7 @@ description: >-
 * Give your bot a name.
 * Choose a **tone**: Professional, Friendly, or Casual.
 
-
-
-<figure><img src=".gitbook/assets/5.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-10-03 130735.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -61,7 +59,9 @@ description: >-
 * Add knowledge from documents (PDFs, Word files), website URLs, or pasted text.
 * Your bot learns instantly and can answer based on this content.
 
-<figure><img src=".gitbook/assets/6.JPG" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-03 130752.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -70,7 +70,7 @@ description: >-
 * Edit the **Greeting Message** (first thing users see).
 * Set a **Fallback Message** (for when the bot doesn’t understand).
 
-<figure><img src=".gitbook/assets/7.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-10-03 130807.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,9 +79,9 @@ description: >-
 * Choose widget position (bottom-right or bottom-left).
 * Pick colors, button style, and bot avatar to match your brand.
 
-<figure><img src=".gitbook/assets/8.JPG" alt=""><figcaption></figcaption></figure>
-
 [For more Detailed 4-STEP BUILDER](broken-reference) - Click Here
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-03 130854.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -96,9 +96,9 @@ description: >-
 
 * Copy the embed code snippet from **Preview & Launch**.
 
-<figure><img src=".gitbook/assets/9.JPG" alt=""><figcaption></figcaption></figure>
-
 [For More Detailed Ways to Embed your Chatbot- Click Here](broken-reference)
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-03 130908 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -123,9 +123,11 @@ description: >-
 * Go to your dashboard → **Analytics** tab.
 * Track conversations, messages, characters, and daily active users.
 
-<figure><img src=".gitbook/assets/11.JPG" alt=""><figcaption></figcaption></figure>
-
 [For More Detailed Analytics and Reporting](broken-reference) - Click Here
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -141,9 +143,9 @@ description: >-
 * If you reach the Free Plan limits (50 messages/month), go to **Plans & Billing**.
 * Upgrade to Basic, Essential, or Business for more bots, storage, and messages.
 
-<figure><img src=".gitbook/assets/12.JPG" alt=""><figcaption></figcaption></figure>
-
 [For More Detailed Plans and Billing - Click Here](broken-reference)
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
