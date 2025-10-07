@@ -6,7 +6,7 @@
 
 Imagine having a smart assistant on your website that never sleeps, never gets tired, and always has the right answers for your visitors. That's exactly what AI BotKit brings to your WordPress website!
 
-[AI BotKit](https://aibotkit.io/) is a powerful yet easy-to-use plugin that adds an intelligent chatbot to your website. But this isn't just any ordinary chatbot - it's powered by advanced artificial intelligence that can actually understand your content and provide meaningful, helpful responses to your visitors.
+[AI BotKit](https://aibotkit.io/) is a powerful yet easy-to-use app that adds an intelligent chatbot to your website. But this isn't just any ordinary chatbot - it's powered by advanced artificial intelligence that can actually understand your content and provide meaningful, helpful responses to your visitors.
 
 ## <mark style="color:blue;">How Does It Work?</mark>
 
