@@ -2,6 +2,8 @@
 
 AI Bot Kit tracks all key usage statistics for your chatbot. These metrics help you measure engagement, monitor limits, and optimize performance.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 1. Chat Counts

@@ -39,7 +39,7 @@ AI Bot Kit also provides a **direct share link** to your chatbot.
 For WordPress users, a dedicated plugin is available:
 
 * Click **Download Plugin** and install it on your WordPress dashboard.
-* Use **Copy Code** to add your bot ID and start running the chatbot.
+* **Copy WordPress Code** & add it to your WordPress plugin while loggin in.
 
 ***
 

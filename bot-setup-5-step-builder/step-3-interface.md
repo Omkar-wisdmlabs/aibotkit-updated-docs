@@ -15,7 +15,7 @@ The **Interface** tab controls how your chatbot communicates with visitors.
     3. **Above Chat Icon (Delayed)**\
        The message appears above the chatbot icon after a delay. You can set the delay time (in minutes), and the message will pop up accordingly.
 
-<div><figure><img src="../.gitbook/assets/image (3).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (3).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * Quick Messages : Add predefined question snippets that users can click on, so they don’t have to type their queries manually.
 

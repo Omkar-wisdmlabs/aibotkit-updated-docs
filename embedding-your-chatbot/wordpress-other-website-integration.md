@@ -1,47 +1,39 @@
 # WordPress / Other Website Integration
 
-For WordPress, AI Bot Kit offers two ways to embed your chatbot: using the **Custom HTML block** or the **AI Bot Kit plugin**.
+Click the **Activate** button on your dashboard, and a popup will appear.\
+For WordPress, **AI BotKit** offers **three ways** to embed your chatbot:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### Option A: Using a Custom HTML Block
+#### Option 1 : Add directly to your wordpress website
 
-1. Go to your WordPress dashboard.
-2. Open the page or post where you want the chatbot.
-3. Click **+ Add Block** and select **Custom HTML**.
-4. Paste the AI Bot Kit embed code:
+You’ll see a list of all the pages on your WordPress site in a scrollable list.\
+Select the pages where you want the chatbot to appear.\
+Alternatively, you can choose to display the chatbot on **your entire site**.
 
-```html
-<div id="ai-bot-kit-chatbot" data-chatbot-id="XXXXXXXX"></div>
-<script src="https://app.aibotkit.io/embed.js" async defer></script>
+#### Option 2: Add  Shortcode
+
+You can also add the chatbot using a shortcode.\
+Simply paste the following shortcode on any page or post where you want the chatbot to appear:
+
+```
+[ai_botkit_widget id="baa4fd30-892fh"]
 ```
 
-5. Update or Publish the page.
+For example, add it to your homepage to make the chatbot visible there.
 
-The chatbot will now be visible on that specific page.
+#### Option 3 : Share Link
 
-***
+If you want to share your chatbot without embedding it, use the **Share Link** option.\
+This generates a direct link that anyone can visit to chat with your bot.
 
-#### Option B: Using the AI Bot Kit Plugin
-
-For a simpler, site-wide installation:
-
-1. Download the **AI Bot Kit WordPress Plugin** from your dashboard.
-2. Log into WordPress → **Plugins → Add New → Upload Plugin**.
-3. Upload the `.zip` file, install, and click **Activate**.
-4. Go to **AI Bot Kit Settings** inside your WP Admin.
-5. Enter your chatbot ID (available in your AI Bot Kit dashboard).
-6. Save changes.
-
-That’s it! Your chatbot will now run automatically across your entire WordPress site.
+For example : [https://app.aibotkit.io/chatbot/baa4fd30-eeb](https://app.aibotkit.io/chatbot/baa4fd30-eeb6-47)
 
 ***
 
-#### Pro Tips
 
-* Use **Custom HTML** if you want the chatbot on a specific landing page only.
-* Use the **Plugin** if you want it to show everywhere (site-wide).
-* If the chatbot doesn’t appear immediately, clear your WordPress cache or CDN.
 
 📘 Full guide available here:\
 [👉 How to Add AI Bot Kit Chatbot to WordPress](https://aibotkit.io/blogs/wordpress-chatbot/)

@@ -18,6 +18,6 @@ In the **Training** tab, you define what your chatbot actually knows. This is wh
 
 **Website Scrapping :**&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you add a URL, our app will crawl all linked pages and display them in a list. You can then select up to 10 pages at a time to train your chatbot.
