@@ -14,6 +14,7 @@ AI Bot Kit offers both **monthly** and **yearly** billing options, giving you fl
 
 * Basic Plan → $5/month billed every month.
 * Essential Plan → $20/month billed every month.
+* Business Plan → $40/month billed every month.
 
 ***
 
