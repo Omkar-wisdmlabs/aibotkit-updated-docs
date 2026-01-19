@@ -6,7 +6,7 @@
 
 * [What is AI Bot Kit?](introduction/what-is-ai-bot-kit.md)
 * [Key Features](introduction/key-features.md)
-* [Free Plan & Upgrades](introduction/free-plan-and-upgrades.md)
+* [Pricing](introduction/pricing.md)
 
 ## Creating Your Chatbot
 
@@ -23,6 +23,7 @@
 * [Step 5: Styles](bot-setup-5-step-builder/step-5-styles.md)
 * [Step 6: Publish](bot-setup-5-step-builder/step-6-publish.md)
 * [Conversation History](bot-setup-5-step-builder/conversation-history.md)
+* [Leads](bot-setup-5-step-builder/leads.md)
 
 ## Embedding Your Chatbot
 
@@ -54,4 +55,4 @@
 
 ## Need Help?
 
-* [Help](need-help/help.md)
+* [Help Center](need-help/help-center.md)

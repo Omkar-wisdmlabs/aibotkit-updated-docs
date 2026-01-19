@@ -2,26 +2,29 @@
 
 The **Interface** tab controls how your chatbot communicates with visitors.
 
-* **Greeting Message**: This is the first message shown when someone opens the chatbot. Example:\
-  &#xNAN;_“Hello! 👋 How can I help you today?”_
-*   Greeting Message Display: Customize where the greeting message should be displayed, we have 3 options :&#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-    Choose where you want the greeting message to appear. There are three options:
+**Greeting Message**: This is the first message shown when someone opens the chatbot. Example:\
+&#xNAN;_“Hello! 👋 How can I help you today?”_
 
-    1. **In Chat Only**\
-       The message is shown only inside the chatbot, after it has been opened.
-    2. **Above Chat Icon**\
-       The message appears above the chatbot icon (before opening the chatbot) and is also visible inside the chatbot.
-    3. **Above Chat Icon (Delayed)**\
-       The message appears above the chatbot icon after a delay. You can set the delay time (in minutes), and the message will pop up accordingly.
+**Greeting Message Display**: Customize where the greeting message should be displayed, we have 3 options :&#x20;
 
-<div><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+Choose where you want the greeting message to appear. There are three options:
 
-* Quick Messages : Add predefined question snippets that users can click on, so they don’t have to type their queries manually.
+1. **In Chat Only**\
+   The message is shown only inside the chatbot, after it has been opened.
+2. **Above Chat Icon**\
+   The message appears above the chatbot icon (before opening the chatbot) and is also visible inside the chatbot.
+3. **Above Chat Icon (Delayed)**\
+   The message appears above the chatbot icon after a delay. You can set the delay time (in minutes), and the message will pop up accordingly.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<p align="center"><img src="../.gitbook/assets/image (4) (1).png" alt=""> </p>
+* **Quick Messages** : Add predefined question snippets that users can click on, so they don’t have to type their queries manually.
+
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""> </p>
 
 
 
@@ -30,13 +33,9 @@ The **Interface** tab controls how your chatbot communicates with visitors.
 
 These settings ensure your bot always responds — even if it doesn’t know the exact answer — and keeps the conversation flowing.
 
-<figure><img src="../.gitbook/assets/7.JPG" alt=""><figcaption></figcaption></figure>
+#### Lead Generation&#x20;
 
-
-
-Lead Generation&#x20;
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -109,6 +108,6 @@ The generated leads will be displayed in chat conversation history as shown belo
 
 Follow Up Message :
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-This pop-up message appears when a user has been inactive for more than 5 minutes. You can fully customize the text to suit your bot’s tone and context.
+This pop-up message appears when a user has been inactive for more than 1 minute. You can fully customize the text to suit your bot’s tone and context.

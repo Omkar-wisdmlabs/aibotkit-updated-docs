@@ -39,7 +39,7 @@ description: >-
 * Sign up with your **email and password**.
 * Your first chatbot is created instantly in your dashboard.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [For More Details about Creating your Chatbot - Click Here](/broken/pages/NsAPqm4uqyptVtDS4njA)
 
@@ -127,7 +127,7 @@ description: >-
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -145,7 +145,7 @@ description: >-
 
 [For More Detailed Plans and Billing - Click Here](/broken/pages/Ic01XGuWVZP2bDGZrdfI)
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

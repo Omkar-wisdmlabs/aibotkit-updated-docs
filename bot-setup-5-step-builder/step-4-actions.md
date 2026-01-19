@@ -2,7 +2,7 @@
 
 ## Human Support Request
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Human Support Request allows your chatbot to seamlessly transfer conversations to your support team when users need human assistance. Instead of leaving users frustrated, your chatbot can collect their information and notify your team immediately.
 
@@ -25,7 +25,7 @@ When a user requests to speak with a human, or when your chatbot determines it c
 2. Find the "Human Support Request" section
 3. Toggle the feature ON
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Configure when handover should happen:
 
@@ -33,7 +33,7 @@ Configure when handover should happen:
   Example : "Handover to human if you cannot answer the user's question or if the user explicitly asks to speak with a human"
 * **Automatic Handover**: Enable this to automatically hand over conversations when the chatbot fails to answer multiple questions in a row
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Customize the messages that users will see:
 
@@ -42,11 +42,11 @@ Customize the messages that users will see:
 * **Confirmation Message**: This appears after the user submits their information.\
   Example: "Thanks! Our team has received your message and will get back to you shortly."
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ensure that you have already set up the Contact Form in Step 3. If not you can click "Configure from here" option and setup the form.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the email address where you want to receive handover notifications. Choose whether to send a confirmation email to users when they submit a handover request
 

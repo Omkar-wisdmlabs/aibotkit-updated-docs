@@ -1,6 +1,4 @@
-# Debugging & Troubleshooting
-
-
+# General Debugging&#x20;
 
 ## Installation Errors&#x20;
 
@@ -8,7 +6,7 @@
 
 Don't panic if something goes wrong! Here are solutions to common problems. 🛠️
 
-#### 😱 **"Plugin could not be activated"**
+#### **"Plugin could not be activated"**
 
 **Possible Causes & Solutions:**
 
@@ -30,7 +28,7 @@ Don't panic if something goes wrong! Here are solutions to common problems. 🛠
 * _Solution:_ Set folders to 755, files to 644
 * _Help:_ Contact hosting provider for permission assistance
 
-#### 😵 **"Plugin not appearing in admin menu"**
+#### **"Plugin not appearing in admin menu"**
 
 **Quick Fixes:**
 

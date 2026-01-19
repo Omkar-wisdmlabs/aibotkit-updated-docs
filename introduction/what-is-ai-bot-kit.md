@@ -29,4 +29,4 @@ The best part? You don't need to be tech-savvy to use AI BotKit. Our setup wizar
 
 _<mark style="background-color:blue;">This is just the beginning! AI BotKit is constantly evolving with new features like voice assistants and agentic AI coming soon. You're not just getting a chatbot - you're investing in the future of website interaction.</mark>_
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

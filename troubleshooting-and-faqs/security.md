@@ -10,7 +10,7 @@ If you don't want the chatbot to responsd to any certain set of words, you can a
 
 Similarly if there is any IP address you want to ban from using your chatbot you can add the IP address in the security tab.
 
-
+**Note**: This feature is available for Essential and Business plans.
 
 #### Data Privacy & Security
 

@@ -1,34 +1,8 @@
 # Key Features
 
-✨ **Context-Aware Intelligence**\
-AI Bot Kit goes beyond basic bots. It understands context and delivers smart, human-like responses that feel natural and relevant to your visitors.
+### Key Features of AI Botkit
 
-🔗 **Seamless Content Integration**
-
-* Instantly learns from your website content
-* Supports document uploads (PDFs, Word files, etc.)
-* Add knowledge directly from text or URLs
-* Continuously improves as you update and train it
-
-📊 **Built-in Analytics Dashboard**
-
-* Track how many visitors engage with your bot
-* See which questions are asked most often
-* Monitor daily active usage and message trends
-* Use insights to refine your chatbot and improve performance
-
-🛡️ **Secure & Reliable**
-
-* Your data stays private and protected
-* Built with industry best practices for security and uptime
-* Regular updates and support ensure consistent performance
-
-🎨 **Easy to Customize**
-
-* Choose from multiple chatbot styles and widget positions
-* Match colors, buttons, and avatar to your brand
-* Customize greetings, fallback messages, and bot personality
-* 100% no-code, designed for anyone to set up in minutes
+<table><thead><tr><th width="238">Feature Category</th><th>Included Features</th></tr></thead><tbody><tr><td>🎯 Business Features</td><td>Human handover, 24/7 customer support</td></tr><tr><td>🔄 Lead Management</td><td>Contact forms, Lead tracking</td></tr><tr><td>📚 Context (Knowledge)</td><td>Website, PDF, Q&#x26;A pairs, WordPress content</td></tr><tr><td>💬 Conversation Features</td><td>Welcome messages, Quick replies, Follow-ups, Fallback handling</td></tr><tr><td>🔌 Integrations &#x26; Actions</td><td>Webhooks, Context-based triggers</td></tr><tr><td>📊 Analytics &#x26; Insights</td><td>Conversation analytics, Performance metrics, User insights, Data export</td></tr><tr><td>🚀 Easy Deployment</td><td>Deploy anywhere within minutes</td></tr></tbody></table>
 
 ***
 
@@ -37,7 +11,7 @@ AI Bot Kit goes beyond basic bots. It understands context and delivers smart, hu
 1️⃣ **Instant Customer Support**\
 Answer customer queries 24/7, reduce support tickets, and provide quick help even when your team is offline.
 
-2️⃣ **Boost Sales & Conversions**\
+2️⃣ **Sales Assistant**\
 Guide visitors with smart product or service recommendations, answer pre-purchase questions, and increase conversions.
 
 3️⃣ **Enhance User Experience**\
