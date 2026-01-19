@@ -39,9 +39,9 @@ description: >-
 * Sign up with your **email and password**.
 * Your first chatbot is created instantly in your dashboard.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-[For More Details about Creating your Chatbot - Click Here](broken-reference)
+[For More Details about Creating your Chatbot - Click Here](/broken/pages/NsAPqm4uqyptVtDS4njA)
 
 ***
 
@@ -79,7 +79,7 @@ description: >-
 * Choose widget position (bottom-right or bottom-left).
 * Pick colors, button style, and bot avatar to match your brand.
 
-[For more Detailed 4-STEP BUILDER](broken-reference) - Click Here
+[For more Detailed 4-STEP BUILDER](/broken/pages/fKqmJeYAde4sQqNZIb2F) - Click Here
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-03 130854.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ description: >-
 
 * Copy the embed code snippet from **Preview & Launch**.
 
-[For More Detailed Ways to Embed your Chatbot- Click Here](broken-reference)
+[For More Detailed Ways to Embed your Chatbot- Click Here](/broken/pages/2GArx1sQZkrWQnDSdD7B)
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-03 130908 (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -123,11 +123,11 @@ description: >-
 * Go to your dashboard → **Analytics** tab.
 * Track conversations, messages, characters, and daily active users.
 
-[For More Detailed Analytics and Reporting](broken-reference) - Click Here
+[For More Detailed Analytics and Reporting](/broken/pages/46bMzMSfhGXjWuZJMhbv) - Click Here
 
 
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -143,9 +143,9 @@ description: >-
 * If you reach the Free Plan limits (50 messages/month), go to **Plans & Billing**.
 * Upgrade to Basic, Essential, or Business for more bots, storage, and messages.
 
-[For More Detailed Plans and Billing - Click Here](broken-reference)
+[For More Detailed Plans and Billing - Click Here](/broken/pages/Ic01XGuWVZP2bDGZrdfI)
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -3,7 +3,7 @@
 Click the **Activate** button on your dashboard, and a popup will appear.\
 For WordPress, **AI BotKit** offers **three ways** to embed your chatbot:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

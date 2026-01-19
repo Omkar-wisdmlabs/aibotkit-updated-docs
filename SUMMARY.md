@@ -19,8 +19,9 @@
 * [Step 1: General](bot-setup-5-step-builder/step-1-general.md)
 * [Step 2: Training](bot-setup-5-step-builder/step-2-training.md)
 * [Step 3: Interface](bot-setup-5-step-builder/step-3-interface.md)
-* [Step 4: Styles](bot-setup-5-step-builder/step-4-styles.md)
-* [Step 5: Publish](bot-setup-5-step-builder/step-5-publish.md)
+* [Step 4: Actions](bot-setup-5-step-builder/step-4-actions.md)
+* [Step 5: Styles](bot-setup-5-step-builder/step-5-styles.md)
+* [Step 6: Publish](bot-setup-5-step-builder/step-6-publish.md)
 * [Conversation History](bot-setup-5-step-builder/conversation-history.md)
 
 ## Embedding Your Chatbot
@@ -50,3 +51,7 @@
 * [Contact Support](troubleshooting-and-faqs/contact-support.md)
 * [General Debugging ](troubleshooting-and-faqs/general-debugging.md)
 * [Security](troubleshooting-and-faqs/security.md)
+
+## Need Help?
+
+* [Help](need-help/help.md)

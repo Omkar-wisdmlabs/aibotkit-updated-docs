@@ -23,7 +23,7 @@ Once your chatbot is set up, the final step is to make it visible on your websit
 
 ***
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Share Link
 

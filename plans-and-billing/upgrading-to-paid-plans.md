@@ -4,7 +4,7 @@ If you’ve outgrown the Free plan, upgrading to a paid plan unlocks higher limi
 
 ***
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### How to Upgrade
 
