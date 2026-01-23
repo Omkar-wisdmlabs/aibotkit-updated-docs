@@ -19,7 +19,7 @@ AI BotKit is fully GDPR compliant and takes your data privacy very seriously. He
 * **End-to-End Encryption:** All messages are encrypted, ensuring that only you can access your conversations. No one else, including us, can view your messages.
 * **Data Access & Portability:** In compliance with GDPR, you have full access to all your chatbots and conversation data. You can download this data anytime.
 * **Knowledge Base Security:** Your knowledge base is **never stored in our database**. It is securely stored in Pinecone Vector Database, which also follows strict security standards.
-* **Trusted AI Model:** We use the **ChatGPT-4 flagship model** as our LLM, guaranteeing high-quality responses while maintaining security and confidentiality.
+* **Trusted AI Model:** We use the **ChatGPT 5 series models** as our LLM, guaranteeing high-quality responses while maintaining security and confidentiality.
 
 With AI BotKit, your data remains safe, private, and under your control at all times.
 
